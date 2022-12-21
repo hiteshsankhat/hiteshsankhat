@@ -9,9 +9,6 @@ Software Engineer at Zeus learning
 * ✉️  You can contact me at [hsankhat099@gmail.com](mailto:hsankhat099@gmail.com)
 * 🤝  I'm open to collaborating on web based project
 
-<a href="https://www.twitch.tv/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&color=6366f1&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-
 ### Skills
 
 
